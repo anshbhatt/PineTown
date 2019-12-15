@@ -2,7 +2,7 @@
 pinetown.in webdev project
 
 
-<!DOCTYPE>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -17,3 +17,7 @@ pinetown.in webdev project
         <title> Home </title>
             
     </head>
+    <body>
+        
+    </body>
+</html>
