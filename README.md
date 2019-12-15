@@ -14,7 +14,7 @@ pinetown.in webdev project
                 <!--CSS for styling and layout-->
         <link rel="stylesheet" href="style.css" type="text/css">
             
-        <title> Home </title>
+        <title> PineTown | Home </title>
             
     </head>
     <body>
