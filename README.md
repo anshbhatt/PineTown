@@ -2,7 +2,7 @@
 pinetown.in webdev project
 
 
-<!DOCTYPE>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -13,8 +13,7 @@ pinetown.in webdev project
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
                 <!--CSS for styling and layout-->
         <link rel="stylesheet" href="style.css" type="text/css">
-            
-        <title> Home </title>
+        <title> PineTown | Home </title>
         
     </head>
     
