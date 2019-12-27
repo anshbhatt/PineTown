@@ -1,19 +1,107 @@
 .navbar img{
-	width: 405px;
-	position: relative;
-	top: -36px;
-	left: -46px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+ #lightblue{
+ width: 58%;
+ position: absolute;
+ left: 42.05%;
+ opacity: 0.54;
+ z-index: 9;
+ }
+ 
+ #darkblue{
+ width: 58%;
+ position: absolute;
+ top: 42%;
+ z-index: 8;
+ }
+ 
+ #besidehome{
+ height: 40%;
+ position: absolute;
+ right: 95%;
+ top: 20%;
+ z-index: 10;
+ }
+ 
+ #besidegroceries{
+ height: 40%;
+ position: absolute;
+ left: 94%;
+ top: 47%;
+ z-index: 10;
+ }
+
+#whitebghome{
+    height: 70%;
+    position: absolute;
+    z-index:10;
+    top: 30%;
+    left: 14.85%
+    
+   
+}
+#whitebggroceries{
+    height: 70%;
+    position: absolute;
+    z-index:10;
+    top: 7%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 52%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 21%;
+    left: 19%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 70%;
+    left: 18.8%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    left: 62.5%;
+}
+
+
+body{
+    min-width: 1000px;
+    overflow-x: hidden;
+    
 }
 
 @media screen and (max-width: 500px) {
-	.navbar img{
-		width: 250px;
-		position: relative;
-		top: -18px;
-		left: -23px;
-		padding-bottom: 0px;
-		margin-bottom: 0px;
-	}
+    .navbar img{
+        width: 250px;
+        position: relative;
+        top: -18px;
+        left: -23px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
 }
