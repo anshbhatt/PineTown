@@ -28,7 +28,7 @@
                             <a class="nav-link" href="#" style="font-family: 'Century Gothic'; color: #06106E;"><strong>Login/Sign Up</strong><span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item px-2">
-                            <a class="nav-link" href="#" style="font-family: 'Century Gothic'; color: #06106E;">About Us</a>
+                            <a class="nav-link" href="#aboutus" style="font-family: 'Century Gothic'; color: #06106E;">About Us</a>
                         </li>
                         <li class="nav-item px-2 mr-5">
                             <a class="nav-link" href="#" style="font-family: 'Century Gothic'; color: #06106E;">Contact Us</a>
@@ -37,18 +37,43 @@
                 </div>
             </div>
         </nav>
+        
         <div id="pics">
-        <img id="lightblue" src="./lightblue.svg" />
-        <img id="darkblue" src="./darkblue.svg" />
-        <img id="besidehome" src="./besidehome.svg" />
-        <img id="besidegroceries" src="besidegroceries.svg" />
-        <img id="whitebghome" src="White Background for home.svg" />
-        <img id="whitebggroceries" src="White background for groceries.svg" />
-        <img id="groceriesillustration" src="Groceries Illustration.svg" />
-        <img id="homeillustration" src="Home Illustration.svg" />
-        <img id="groceries" src="Buy Groceries.svg" />
-        <img id="rooms" src="See Rooms.svg" />
+            <img id="lightblue" src="./lightblue.svg" />
+            <img id="darkblue" src="./darkblue.svg" />
+            <img id="besidehome" src="./besidehome.svg" />
+            <img id="besidegroceries" src="besidegroceries.svg" />
+            <img id="whitebghome" src="White Background for home.svg" />
+            <img id="whitebggroceries" src="White background for groceries.svg" />
+            <img id="groceriesillustration" src="Groceries Illustration.svg" />
+            <img id="homeillustration" src="Home Illustration.svg" />
+            <img id="groceries" src="Buy Groceries.svg" />
+            <img id="rooms" src="See Rooms.svg" />
         </div>
+        
+        
+        <fieldset class="mt-5" id="aboutus">
+            <legend style="width: 190px; margin-left: 100px; padding-left: 17px;"><span style="color: #06106E; font-weight: bold; font-family: 'Century Gothic'; font-size: 34px;">About Us</span></legend>
+            <p>Pinetown is a project that is being built to ease the way some of the businesses are done. hjagdhajgajfhgfaj asdgasf uiqhfeuihwqie  ufhqkcjksac eyiquryujdha skjdhsak fhakfhusd hfiuewy uewy</p>
+            <div class="row" style=" padding: 0px 17px 10px;">
+                <div class="col-12 col-md-6 col-lg-3 py-5">
+                    <div class="box mx-auto px-2"></div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 py-5">
+                    <div class="box mx-auto px-2"></div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 py-5">
+                    <div class="box mx-auto px-2"></div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 py-5">
+                    <div class="box mx-auto px-2"></div>
+                </div>
+            </div>
+        </fieldset>
+        
+        <footer>
+            <div class="footer"></div>
+        </footer>
         
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
